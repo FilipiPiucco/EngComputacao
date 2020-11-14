@@ -8,7 +8,7 @@ Este projeto tem como objetivo conectar o WEMOS D1 em uma rede Wi-Fi fixa e atra
 
 ## Conhecimentos
 
-Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensore *DHT11* e *HC-SR04*, *socket*, *GPIOs* e *LOGs*.
+Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensores *DHT11* e *HC-SR04*, *socket*, *GPIOs* e *LOGs*.
 
 ## Lista de materiais
 
@@ -33,13 +33,20 @@ Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensore *DHT11*
 7. Dispositivo Android com o App "TCP Terminal" - <https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpterminal>
 <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/SmartPhone.JPG" height="200" width="400" >
 
-## Technology 
+## Tecnologias 
  
-Here are the technologies used in this project.
+Aqui estão as tecnologias usadas neste projeto
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+* Chip ESP8266 com WIFI integrado
+* APP TCP Terminal para Android
+* Wemos D1 
+* Exemplos ESP8266 para WIFi
+* Exemplos ESP8266 para Socket TCP
+* Terminal mingw32
+* FreeRTOS
+* Tasks
+* EventGroups
+* Sensores DHT11 e HC-SR04
  
  
 ## Services Used
