@@ -61,19 +61,14 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
 
 *https://www.youtube.com/watch?v=84tuQaV8N0g&feature=youtu.be*
 
-## Services Used
+## Serviços usados
  
 * Github
-* ...
  
+## Iniciando o Projeto
  
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
+* Bibliotecas:
+>     Copie os arquivos de dentro da pasta 'Libs' e cole-os dentro do diretorio *"ESP8266_RTOS_SDK/components"*.
 * To create the bank and do as migrations:
 >    $ rake db:create db:migrate db:seed
 * To run the project:
