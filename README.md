@@ -12,8 +12,26 @@ Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensore *DHT11*
 
 ## Lista de materiais
 
-Wemos D1 com cabo usb micro - 1 peça <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/2_logotipo_COLORIDO_horizontal.jpg" height="400" width="800" >
+1. Wemos D1 com cabo usb micro - 1 peça 
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/wemos-d1-r2-99136.jpeg" height="400" width="600" >
 
+2. Protoboard 830 pontos - 1 peça
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/protoboard.JPG" height="248" width="500" >
+
+3. Sensor de temperatura DHT11 - 1 peça
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/dht11_pins.png" height="248" width="500" >
+
+4. Sensor ultrassonico HC-SR04 - 1 peça
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/HC-SR04-PINOUT.jpg" height="248" width="500" >
+
+5. Tacswitch 7 mm - 1 peças
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/tac.jpg" height="248" width="500" >
+
+6. Jumpers coloridos macho/macho - 10 peças
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/jumpers%20protoboard.jpg" height="248" width="500" >
+
+7. Dispositivo Android com o App "TCP Terminal" - <https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpterminal>
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/SmartPhone.JPG" height="248" width="500" >
 
 ## Technology 
  
