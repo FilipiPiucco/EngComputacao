@@ -48,7 +48,19 @@ Aqui estão as tecnologias usadas neste projeto
 * EventGroups
 * Sensores DHT11 e HC-SR04
  
- 
+## Esquema eletrônico:
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/esquema.jpg" height="200" width="400" >
+
+## Ferramentas de compilação:
+
+Siga o passo a passo descrito no site oficial do fabricante do chip ESP8266 para a instalação correta:
+
+*https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/*
+
+E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
+
+*https://www.youtube.com/watch?v=84tuQaV8N0g&feature=youtu.be*
+
 ## Services Used
  
 * Github
