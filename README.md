@@ -77,7 +77,7 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
 
 ### Configurações Iniciais:
 
-No Repositório Main, você encontrará o arquivo main.c
+* No Repositório Main, você encontrará o arquivo main.c
 <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/main.JPG" height="200" width="400" >
 
  Abra-o e edite as configurações conforme segue abaixo:
@@ -101,6 +101,45 @@ No Repositório Main, você encontrará o arquivo main.c
 
     #define PORT 5005
     ```
+
+ ### Compilando
+ 
+ * Abra o terminal "mingw32" e navegue até o diretório do projeto onde se encontra o arquivo *sdkconfig* *
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/SDKConfig.JPG" height="200" width="400" > 
+ 
+ * Utilizando o comando:
+ 
+ > * cd "C:\esp8266\ESP8266_RTOS_SDK\examples\IoTII\Trabalho 3"* 
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MINGW32.JPG" height="200" width="400" > 
+ 
+ 
+ * Feito isto você estará dentro do repositório
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MINGW32_2.JPG" height="200" width="400" > 
+ 
+ 
+ * Conect sua WEMOS D1 na porta USB de seu computador e verifique qual porta *COM* foi reservada:
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/PortaCom.JPG" height="200" width="400" >
+ 
+ 
+ * Agora é a hora de realizar o *manuconfig* e configurar a porta COM verficada anteriormente. Para isso utiliza o comando:
+ 
+ > *make menuconfig*
+  <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MenuConfig.JPG" height="200" width="400" >
+  
+ * Aplicado o comando a janela abaixo será exibida. Navegue até *Serial flasher config*:
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MenuConfig_2.JPG" height="200" width="400" >
+ 
+ 
+ * Depois *Default serial port* 
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MenuConfig_3.JPG" height="200" width="400" >
+ 
+ * Indique a porta COM
+ <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MenuConfig_4.JPG" height="200" width="400" >
+
+ * De *Ok*, após realize um *Save* e por fim selecione *Exite* até finalizar o *Menu config* e retornar ao terminal MINGW32
+ 
+ 
+ 
 
 * To create the bank and do as migrations:
 >    $ rake db:create db:migrate db:seed
