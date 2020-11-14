@@ -19,7 +19,7 @@ Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensore *DHT11*
 <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/protoboard.JPG" height="248" width="500" >
 
 3. Sensor de temperatura DHT11 - 1 peça
-<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/dht11_pins.png" height="248" width="500" >
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/dht11_pins.png" height="350" width="350" >
 
 4. Sensor ultrassonico HC-SR04 - 1 peça
 <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/HC-SR04-PINOUT.jpg" height="248" width="500" >
