@@ -1,13 +1,20 @@
 <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/2_logotipo_COLORIDO_horizontal.jpg" height="400" width="800" >
 
-## Integração dos Projetos Desenvolvidos
+# Medição de temperatura, umidade e distancia através de conexão WIFI com Soket TCP/IP
+ 
+## Introdução
+
+Este projeto tem como objetivo conectar o WEMOS D1 em uma rede Wi-Fi fixa e através de um socket TCP/IP, ler os sensores HC-SR04 (ultrassônico) e DHT11. As etapas de conexão Wi-Fi é sinalizado no LED e em caso de 5 tentativas de conexão falharem, pressionar um botão para reinicio do processo de conexão Wi-Fi.
+
+## Conhecimentos
+
+Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensore *DHT11* e *HC-SR04*, *socket*, *GPIOs* e *LOGs*.
+
+## Lista de materiais
+
+Wemos D1 com cabo usb micro - 1 peça <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/2_logotipo_COLORIDO_horizontal.jpg" height="400" width="800" >
 
 
-## Name_of_the_project
- 
-... Description
- 
- 
 ## Technology 
  
 Here are the technologies used in this project.
