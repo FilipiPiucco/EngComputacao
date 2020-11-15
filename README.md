@@ -31,7 +31,7 @@ Este projeto ensina a manipular *Tasks*, *EventGroups*, *Queue*, sensores *DHT11
 <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/jumpers%20protoboard.jpg" height="250" width="250" >
 
 7. Dispositivo Android com o App "TCP Terminal" - <https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpterminal>
-<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/SmartPhone.JPG" height="200" width="400" >
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/AppTCPTerminal.jpeg" height="450" width="270" >
 
 ## Tecnologias 
  
