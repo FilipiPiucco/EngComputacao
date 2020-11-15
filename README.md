@@ -1,4 +1,4 @@
-<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/2_logotipo_COLORIDO_horizontal.jpg" height="400" width="800" >
+<img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/IoT.jpg" height="500" width="800" >
 
 # Medição de temperatura, umidade e distância através de conexão WIFI com Socket TCP/IP
  
