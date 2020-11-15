@@ -149,6 +149,10 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
  Nota: O camando *make flash monitor* poderá demorar alguns minutos quando executado da primeira vez. 
  
  * Finalizado a transferiencia do código é hora de testar!
+ 
+ Nota: Para baixar o video de demosntração acesse:
+ 
+ <https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/Demonstra%C3%A7%C3%A3o.mp4>
 
 
 ## Links
