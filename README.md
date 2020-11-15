@@ -109,7 +109,7 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
  
  * Utilizando o comando:
  
- >  cd "C:\esp8266\ESP8266_RTOS_SDK\examples\IoTII\Trabalho 3"
+ >  cd "C:\esp8266\ESP8266_RTOS_SDK\examples\IoTII\Trabalho3"
  <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MINGW32.JPG" height="200" width="400" > 
  
  
