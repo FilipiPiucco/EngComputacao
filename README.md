@@ -109,7 +109,7 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
  
  * Utilizando o comando:
  
- > * cd "C:\esp8266\ESP8266_RTOS_SDK\examples\IoTII\Trabalho 3"* 
+ >  cd "C:\esp8266\ESP8266_RTOS_SDK\examples\IoTII\Trabalho 3"
  <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MINGW32.JPG" height="200" width="400" > 
  
  
@@ -117,13 +117,13 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
  <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MINGW32_2.JPG" height="200" width="400" > 
  
  
- * Conect sua WEMOS D1 na porta USB de seu computador e verifique qual porta *COM* foi reservada:
+ * Conecte sua WEMOS D1 na porta USB de seu computador e verifique qual porta *COM* foi reservada:
  <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/PortaCom.JPG" height="200" width="400" >
  
  
  * Agora é a hora de realizar o *manuconfig* e configurar a porta COM verficada anteriormente. Para isso utiliza o comando:
  
- > *make menuconfig*
+ > make menuconfig
   <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MenuConfig.JPG" height="200" width="400" >
   
  * Aplicado o comando a janela abaixo será exibida. Navegue até *Serial flasher config*:
@@ -136,42 +136,34 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
  * Indique a porta COM
  <img src="https://github.com/FilipiPiucco/EngComputacao/blob/main/Public/ReadmeImagens/MenuConfig_4.JPG" height="200" width="400" >
 
- * De *Ok*, após realize um *Save* e por fim selecione *Exite* até finalizar o *Menu config* e retornar ao terminal MINGW32
+ * De *Ok*, após realize um *Save* e por fim selecione *Exit* até finalizar o *Menu config* e retornar ao terminal MINGW32
  
+ * De volta ao terminal MINGW32 execute o comando:
  
+ > make build
  
+ * Por fim execute para tranferir o código e abrir o monitor serial execute o comando:
+ 
+ >  make flash monitor
+ 
+ Nota: O camando *make flash monitor* poderá demorar alguns minutos quando executado da primeira vez. 
+ 
+ * Finalizado a transferiencia do código é hora de testar!
 
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
-## How to use
- 
-Here will be the images and descriptions. Principal content.
- 
- 
-## Features
- 
-  - Here will be the features.
- 
- 
+
 ## Links
  
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - App TCP Terminal: <https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpterminal>
+  - instalação ESP8266: https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/
+  - Instalação do RTOS-SDK (ESP8266): https://www.youtube.com/watch?v=84tuQaV8N0g&feature=youtu.be
  
- 
-## Versioning
+## Versão
  
 1.0.0.0
+  
+## Autores
  
- 
-## Authors
- 
+* **Filipi Bitencourt Piucco**: @FilipiPiucco (https://github.com/FilipiPiucco)
 * **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
  
 
