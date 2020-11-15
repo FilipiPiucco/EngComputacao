@@ -164,7 +164,7 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
 ## Autores
  
 * **Filipi Bitencourt Piucco**: @FilipiPiucco (https://github.com/FilipiPiucco)
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Jonas Geremias**: @jonasgeremias (https://github.com/jonasgeremias)
  
 
 
