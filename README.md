@@ -142,7 +142,7 @@ E também o video explicativo *Instalação do RTOS-SDK (ESP8266)*:
  
  > make build
  
- * Por fim execute para tranferir o código e abrir o monitor serial execute o comando:
+ * Por fim para tranferir o código e abrir o monitor serial execute o comando:
  
  >  make flash monitor
  
